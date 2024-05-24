@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+.nodeco {
+    text-decoration: none;
+}
+
+/* padding */
+
+.padding-top-120 {
+    padding-top: 120px;
+}
+
+.padding-bottom-30 {
+    padding-bottom: 30px;
+}
+
+/* font-size */
+
+.font-sm {
+    font-size: 0.8rem;
+}
+
+.border-break {
+    width: 20%;
+    display: inline-block;
+    border-radius: 5px;
+    margin: 0px 10px;
+}
+
+.border-white {
+    border: 2px solid white;
+}
+
+.border-black {
+    border: 2px solid black;
+}
+
+/* colors */
+
+.color-white {
+    color: white;
+}
