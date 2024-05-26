@@ -26,12 +26,9 @@ header {
 
 /* portfolio */
 
-section.portfolio {
-    
-    
-    /* debug */
-
-    height: 300vh;
+.img-portfolio {
+    width: 100%;
+    border-radius: 20px;
 }
 
 /* about */
