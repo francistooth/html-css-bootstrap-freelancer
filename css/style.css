@@ -14,8 +14,22 @@ header {
 }
 
 .h-container-all {
-    max-width: 80%;
+    max-width: 90%;
     height: 100%;    
+}
+
+.h-container-navtablet {
+    display: none;
+}
+
+@media screen and (min-width:768px) {
+    .h-container-bars {
+        display: none;
+    }
+
+    .h-container-navtablet {
+        display: block;
+    }
 }
 
 /* jumbo */
